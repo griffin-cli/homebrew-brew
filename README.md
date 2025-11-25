@@ -1,2 +1,2 @@
-# homebrew
-Homebrew definition for the griffin CLI.
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
